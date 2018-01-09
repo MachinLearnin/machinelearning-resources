@@ -9,6 +9,7 @@
 
 * jupyter: the prefer way to install it is using [anaconda](https://anaconda.org/)
 * [sci-kit learn](http://scikit-learn.org/): one of the simplest machine learning library
+* [pandas](https://pandas.pydata.org/): library for data analysis compatible with numpy
 * [Keras](http://keras.io): high-level neural network api running on top of Tensorflow, CNTK or Theano
 * Machine Learning APIs by Google:  a bunch of general machine learning models written as APIs,we can find an example of their usage in the [Google IO 2017](https://www.youtube.com/watch?v=w1xNTLH1zlA)
     * [Video Intelligence](https://cloud.google.com/video-intelligence/)
