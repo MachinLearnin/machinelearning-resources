@@ -9,3 +9,4 @@
 
 * https://archive.ics.uci.edu/ml/datasets.html?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table
 * https://www.kaggle.com/andonians/random-linear-regression
+* http://www.stat.ufl.edu/~winner/datasets.html
